@@ -1,0 +1,6 @@
+password
+hadi   admin123
+
+
+pip install django==2.1.5
+pip install mysqlclient
